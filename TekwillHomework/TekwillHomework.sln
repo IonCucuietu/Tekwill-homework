@@ -25,6 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework7.2", "Homework7.2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework7.3", "Homework7.3\Homework7.3.csproj", "{7E0C4B5D-D5E2-492B-ADA7-017B9D827C91}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework12.1", "Homework12.1\Homework12.1.csproj", "{71889AAD-25A9-4E60-9714-01C2A10929C0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework12.2", "Homework12.2\Homework12.2.csproj", "{69E02BA1-52B6-4E3D-B6B2-9DC3AA97ED21}"
@@ -38,6 +39,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework7", "Homework7", "{8AB02BC5-CCB6-4C02-9FED-C684B43636B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework12", "Homework12", "{4FA59A96-32BA-40F2-85AF-2B2FE1D2EEB1}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework12.1", "Homework12.1\Homework12.1.csproj", "{71889AAD-25A9-4E60-9714-01C2A10929C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework12.2", "Homework12.2\Homework12.2.csproj", "{69E02BA1-52B6-4E3D-B6B2-9DC3AA97ED21}"
+>>>>>>> 8dce999ec89b33c26b5f7a5e2378c28d201992df
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
